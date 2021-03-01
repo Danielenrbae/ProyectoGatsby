@@ -1,0 +1,16 @@
+.item{
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+}
+
+.item:hover {
+    background-color: #64c4bd; 
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    font-style: italic;
+    letter-spacing: 4px;
+  }
+  

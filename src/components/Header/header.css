@@ -1,0 +1,15 @@
+.cabecera{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 40%;
+}
+.imageBox{
+    width: 20em;
+    margin-right: 20px;
+    margin-left: 95px;
+    cursor: pointer;
+}
+#titulo{
+    font-size: 2em;
+}

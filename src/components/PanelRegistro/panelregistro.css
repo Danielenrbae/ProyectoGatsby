@@ -1,0 +1,22 @@
+.registro {
+  width: 50%;
+}
+
+.iniciosesion {
+  width: 50%;
+}
+input {
+    display: flex; }
+  
+  label {
+    display: flex; }
+  
+  label span {
+    color: red; }
+  
+  label a {
+    display: flex; }
+  
+    #panel {
+        margin-top: 100px !important;
+        margin-bottom: 100px !important; }
