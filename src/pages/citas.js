@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../components/Header/Header";
+import Footer from "../components/Footer/footer";
 
 export default function Citas() {
     return (
@@ -7,6 +8,8 @@ export default function Citas() {
             <Header />
 
             <h1> ESTO ES LAS CITAS</h1>
+
+            <Footer />
         </div>
     )
 }

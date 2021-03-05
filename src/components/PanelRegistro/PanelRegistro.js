@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Card, Nav, Form, FormControl, FormGroup } from 'react-bootstrap';
+import { Container, Row, Card, Form, FormControl, FormGroup, FormCheck } from 'react-bootstrap';
 import "./panelregistro.css";
 import CabeceraForm from '../CabeceraForm/CabeceraFormRegistro';
 
@@ -75,10 +75,13 @@ export default function PanelRegistro() {
                             </Form.Group>
 
                             <FormGroup>
-                                <input type="checkbox" name="check" />
-                                <label htmlFor="check"><span> *</span>Acepto la política de privacidad</label>
-                            </FormGroup>
 
+                                <FormCheck>
+                                    <FormCheck.Input required/>
+                                    <FormCheck.Label><span> *</span>Acepto la política de privacidad</FormCheck.Label>
+                                </FormCheck>
+                            </FormGroup>
+                            
                             <input type="submit" value="CREAR CUENTA"/>
 
                         </Form>
