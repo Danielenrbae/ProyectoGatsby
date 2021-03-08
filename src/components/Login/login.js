@@ -14,7 +14,7 @@ export default function Login(props) {
         
     }
 
-    if (estadoLogin != 0) {
+    if (estadoLogin !== 0) {
         htmlLogin = (
             <div>
                 <Nav.Item className="enlace3">Daniel</Nav.Item>
