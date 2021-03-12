@@ -19,7 +19,7 @@ export default function PanelRegistro() {
                         </Card.Title>
 
                         <br />
-                        <Form>
+                        <Form method="POST" action="">
                             <Form.Group>
                                 <label htmlFor="nombre">
                                     <span>*</span> Nombre:
