@@ -7,7 +7,7 @@ export default function Citas() {
         <div>
             <Header />
 
-            <h1> ESTO ES LAS CITAS</h1>
+            <h1> ESTO ES LAS CITAS - en mantenimiento</h1>
 
             <Footer />
         </div>

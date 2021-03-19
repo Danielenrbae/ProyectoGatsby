@@ -16,7 +16,7 @@ export default function Header() {
                 <Col>
                     <article className="imageBox">
                         <Link to="/">
-                            <img className="img-fluid" src="https://github.com/Danielenrbae/Danielenrbae.github.io/blob/master/img/Logo_GoAnimals.png?raw=true" alt="Logo Go Animals" />
+                            <img className="img-fluid" src="https://raw.githubusercontent.com/Danielenrbae/Danielenrbae.github.io/master/img/Logo_GoAnimals.webp" alt="Logo Go Animals" />
                         </Link>
                     </article>
                 </Col>

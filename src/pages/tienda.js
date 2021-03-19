@@ -7,7 +7,7 @@ export default function Tienda() {
         <div>
             <Header />
 
-            <h1> ESTO ES LA TIENDA</h1>
+            <h1> ESTO ES LA TIENDA - en mantenimiento</h1>
             <Footer/>
         </div>
     )

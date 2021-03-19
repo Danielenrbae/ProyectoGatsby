@@ -3,7 +3,7 @@ import Header from "../components/Header/Header";
 import Footer from "../components/Footer/footer";
 import CartaBody from "../components/CartaBody/cartaBody";
 import "../CSS/index.css";
-import { Container, Carousel } from "react-bootstrap";
+
 
 export default function Home() {
 

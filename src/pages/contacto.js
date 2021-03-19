@@ -7,7 +7,7 @@ export default function Contacto() {
         <div>
             <Header />
 
-            <h1> ESTO ES EL CONTACTO</h1>
+            <h1> ESTO ES EL CONTACTO  - en mantenimiento</h1>
 
             <Footer />
         </div>
